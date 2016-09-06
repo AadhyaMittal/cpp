@@ -1,3 +1,5 @@
+//To implement VIRTUAL FUNCTIONS in c++
+
 #include<iostream>
 using namespace std;
 class base
